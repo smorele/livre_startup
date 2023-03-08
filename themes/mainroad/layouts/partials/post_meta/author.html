@@ -1,0 +1,8 @@
+{{- if $.Param "author" -}}
+<div class="meta__item-author meta__item">
+	{{ partial "svg/author.svg" (dict "class" "meta__icon") -}}
+	<a href="/auteurs/{{ $.Param "author" | urlize }}">
+	<span class="meta__text">{{ $.Param "author" }}</span>
+	</a>
+</div>
+{{- end -}}

@@ -1,0 +1,43 @@
+baseURL = 'https://livres-startup.fr'
+title = 'Livres Startup'
+theme = 'mainroad'
+googleAnalytics = "" #analytics ID
+defaultContentLanguage = "fr"
+
+[taxonomies]
+  author = "auteurs"
+  tag = "tags"
+  category = "categories"
+
+[Params.logo]
+  image = "/img/logo.png"
+  title = "Livres Startup"
+  subtitle = "Les bonnes lectures pour entreprendre"
+
+[Params.favicon]
+  image = "/img/favicon.png"
+
+[Params]
+  description = "Les meilleurs livres pour développer son entreprise" # Site description. Used in meta description
+  copyright = "livre-startup.fr" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["author", "date", "categories"] # Order of post meta information
+  mainSections = ["livres"]
+  languageCode = "fr-fr"
+  dateFormat = "2 January 2006"
+  dateFormatFull = "02/01/2006"
+  dateFormatTime = "2 Jan 2006 15:04"
+
+[Params.content.filters]
+  author = true
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["recent", "categories", "taglist"]

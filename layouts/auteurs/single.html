@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<h1>{{ .Params.title }}</h1>
+{{ .Render "photo" }}
+
+{{- if .Content }}
+	<h2>Bio</h2>
+	{{ .Content }}
+{{ end }}
+
+<h2>Articles</h2>
+{{ range where .Site.Pages ".Params.author" ( .Params.title ) }}
+	<a class="widget__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{ end }}
+
+{{ end }}
