@@ -1,7 +1,7 @@
 baseURL = 'https://livres-startup.fr'
 title = 'Livres Startup'
 theme = 'mainroad'
-googleAnalytics = "" #analytics ID
+googleAnalytics = "G-C7WWBF4CTC"
 defaultContentLanguage = "fr"
 
 [taxonomies]
