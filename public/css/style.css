@@ -650,7 +650,9 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .post__thumbnail img {
-	width: 100%;
+	width: 50%;
+	display: block;
+	margin: 0 auto;
 }
 
 .content a,
@@ -1320,4 +1322,18 @@ textarea {
 		font-size: 11px;
 		font-size: .6875rem;
 	}
+}
+
+.amz_button a{
+	text-align: center;
+	display: block;
+	color: black;
+  	font-size: 20px;
+  	font-weight: bold;
+  	text-decoration: none;
+  	padding: 12px 88px 12px 85px;
+  	background-color: rgba(255, 255, 255, 0.3);
+  	margin-left: 0px;
+  	border-radius: 6px;
+  	transition: background-color 0.5s;
 }

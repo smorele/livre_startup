@@ -1,0 +1,20 @@
+
+.amz_container {
+	margin: 4em 0;
+	text-align: center;
+}
+a.amz_btn {
+	color: #333;
+	width: 100%;
+  	font-size: 1.4em;
+  	font-weight: bold;
+  	text-decoration: none;
+  	padding: 12px 88px 12px 85px;
+  	background-color: #FFD814;
+  	border-radius: 6px;
+}
+a.amz_btn:hover {
+	color: #333;
+	text-decoration: none;
+	background-color: #FF9900;
+}

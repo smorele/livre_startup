@@ -2,9 +2,318 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Livres Startup</title>
-    <link>http://example.org/</link>
+    <link>https://livres-startup.fr/</link>
     <description>Recent content on Livres Startup</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 10:40:05 +0100</lastBuildDate><atom:link href="https://livres-startup.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jen Sincero</title>
+      <link>https://livres-startup.fr/auteurs/jen-sincero/</link>
+      <pubDate>Wed, 08 Mar 2023 10:40:05 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/jen-sincero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Ries</title>
+      <link>https://livres-startup.fr/auteurs/eric-ries/</link>
+      <pubDate>Wed, 08 Mar 2023 10:39:53 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/eric-ries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben Horowitz</title>
+      <link>https://livres-startup.fr/auteurs/ben-horowitz/</link>
+      <pubDate>Wed, 08 Mar 2023 10:39:42 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/ben-horowitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Thiel</title>
+      <link>https://livres-startup.fr/auteurs/peter-thiel/</link>
+      <pubDate>Wed, 08 Mar 2023 10:39:28 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/peter-thiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Guillebeau</title>
+      <link>https://livres-startup.fr/auteurs/chris-guillebeau/</link>
+      <pubDate>Wed, 08 Mar 2023 10:39:12 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/chris-guillebeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angela Duckworth</title>
+      <link>https://livres-startup.fr/auteurs/angela-duckworth/</link>
+      <pubDate>Wed, 08 Mar 2023 10:38:55 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/angela-duckworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Blank</title>
+      <link>https://livres-startup.fr/auteurs/steve-blank/</link>
+      <pubDate>Wed, 08 Mar 2023 10:38:42 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/steve-blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Sinek</title>
+      <link>https://livres-startup.fr/auteurs/simon-sinek/</link>
+      <pubDate>Wed, 08 Mar 2023 10:38:28 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/simon-sinek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Fried</title>
+      <link>https://livres-startup.fr/auteurs/jason-fried/</link>
+      <pubDate>Wed, 08 Mar 2023 10:38:12 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/jason-fried/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Osterwalder</title>
+      <link>https://livres-startup.fr/auteurs/alexander-osterwalder/</link>
+      <pubDate>Wed, 08 Mar 2023 10:37:53 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/alexander-osterwalder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Thaler</title>
+      <link>https://livres-startup.fr/auteurs/richard-thaler/</link>
+      <pubDate>Wed, 08 Mar 2023 10:37:36 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/richard-thaler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dann Millman</title>
+      <link>https://livres-startup.fr/auteurs/dann-millman/</link>
+      <pubDate>Wed, 08 Mar 2023 10:36:32 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/dann-millman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillaume Declair</title>
+      <link>https://livres-startup.fr/auteurs/guillaume-declair/</link>
+      <pubDate>Wed, 08 Mar 2023 10:36:16 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/guillaume-declair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles Pépin</title>
+      <link>https://livres-startup.fr/auteurs/charles-p%C3%A9pin/</link>
+      <pubDate>Wed, 08 Mar 2023 10:35:51 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/charles-p%C3%A9pin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oren Klaff</title>
+      <link>https://livres-startup.fr/auteurs/oren-klaff/</link>
+      <pubDate>Tue, 07 Mar 2023 14:26:34 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/oren-klaff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brad Pitt</title>
+      <link>https://livres-startup.fr/auteurs/brad-pitt/</link>
+      <pubDate>Tue, 07 Mar 2023 12:01:14 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/auteurs/brad-pitt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;art du pitch: Trouvez l&#39;accroche, soyez convaincants et réussissez vos deals</title>
+      <link>https://livres-startup.fr/art-du-pitch/</link>
+      <pubDate>Tue, 07 Mar 2023 09:05:52 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/art-du-pitch/</guid>
+      <description>Le livre &amp;ldquo;L&amp;rsquo;art du pitch&amp;rdquo; d&amp;rsquo;Oren Klaff est un guide complet pour les entrepreneurs, les chefs d&amp;rsquo;entreprise et tous ceux qui cherchent à améliorer leur capacité à vendre une idée, un produit ou un service. En utilisant des exemples concrets, des stratégies et des techniques efficaces, Klaff explique comment créer des présentations puissantes qui attirent l&amp;rsquo;attention et convainquent les auditeurs.
+Le livre commence par expliquer l&amp;rsquo;importance d&amp;rsquo;un pitch réussi et comment il peut aider à gagner des investisseurs, des clients et des partenaires d&amp;rsquo;affaires.</description>
+    </item>
+    
+    <item>
+      <title>Les vertus de l&#39;échec</title>
+      <link>https://livres-startup.fr/les-vertus-de-lechec/</link>
+      <pubDate>Tue, 21 Feb 2023 10:16:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/les-vertus-de-lechec/</guid>
+      <description>Le livre &amp;ldquo;Les vertus de l&amp;rsquo;échec&amp;rdquo; de Charles Pépin explore le thème de l&amp;rsquo;échec sous différents angles et affirme que les échecs peuvent être une source de croissance et de transformation positive dans notre vie.
+L&amp;rsquo;auteur commence par décrire les différentes formes que peut prendre l&amp;rsquo;échec, qu&amp;rsquo;il s&amp;rsquo;agisse de l&amp;rsquo;échec professionnel, amoureux, scolaire, ou encore sportif. Il souligne que l&amp;rsquo;échec est souvent vécu comme une expérience douloureuse, qui peut nous faire perdre confiance en nous-mêmes et en notre capacité à réussir.</description>
+    </item>
+    
+    <item>
+      <title>La 25ème Heure</title>
+      <link>https://livres-startup.fr/la-25-eme-heure/</link>
+      <pubDate>Sun, 12 Feb 2023 09:16:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/la-25-eme-heure/</guid>
+      <description>Le livre &amp;ldquo;La 25ème heure&amp;rdquo; de Guillaume Declair, paru en 2016, est une enquête journalistique sur l&amp;rsquo;évolution du temps et du travail dans nos sociétés modernes. Le titre évoque la possibilité d&amp;rsquo;une journée de 25 heures, symbole de l&amp;rsquo;accélération du rythme de vie et de la pression accrue sur les individus.
+L&amp;rsquo;ouvrage s&amp;rsquo;organise en quatre parties, chacune consacrée à une dimension différente du temps. La première partie aborde la question du temps de travail, de ses origines historiques à ses mutations actuelles.</description>
+    </item>
+    
+    <item>
+      <title>Le guerrier pacifique</title>
+      <link>https://livres-startup.fr/le-guerrier-pacifique/</link>
+      <pubDate>Thu, 26 Jan 2023 10:57:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/le-guerrier-pacifique/</guid>
+      <description>Attention coup de coeur ! C&amp;rsquo;est LE LIVRE que je recommande dès que l&amp;rsquo;on me parle de développement personnel. Le livre &amp;ldquo;Le Guerrier Pacifique&amp;rdquo; de Dan Millman est un récit inspirant de transformation personnelle qui suit l&amp;rsquo;histoire d&amp;rsquo;un étudiant universitaire et gymnaste de compétition nommé Dan, qui rencontre un vieil homme nommé Socrates qui va devenir son mentor spirituel. Socrates enseigne à Dan un ensemble de leçons sur la vie, l&amp;rsquo;amour, la paix intérieure et la quête de l&amp;rsquo;épanouissement personnel.</description>
+    </item>
+    
+    <item>
+      <title>Nudge - best-seller du prix Nobel d’économie</title>
+      <link>https://livres-startup.fr/nudge-best-seller-economie/</link>
+      <pubDate>Thu, 05 Jan 2023 10:48:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/nudge-best-seller-economie/</guid>
+      <description>Le livre &amp;ldquo;Nudge&amp;rdquo; de Richard Thaler explore les manières dont les choix et les décisions des individus sont influencés par leur environnement. Selon Thaler, il est possible d&amp;rsquo;aider les gens à prendre de meilleures décisions pour eux-mêmes et pour la société en utilisant des techniques subtiles pour orienter leurs comportements de manière souhaitable. Ces techniques sont connues sous le nom de &amp;ldquo;coups de pouce&amp;rdquo; ou de &amp;ldquo;nudges&amp;rdquo;.
+Thaler soutient que les nudges peuvent être utilisés pour améliorer la santé, l&amp;rsquo;épargne, l&amp;rsquo;environnement et d&amp;rsquo;autres domaines de la vie.</description>
+    </item>
+    
+    <item>
+      <title>Business model nouvelle génération</title>
+      <link>https://livres-startup.fr/business-model-nouvelle-generation/</link>
+      <pubDate>Fri, 30 Dec 2022 10:43:00 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/business-model-nouvelle-generation/</guid>
+      <description>&amp;ldquo;Business Model Nouvelle Génération&amp;rdquo; de Alexander Osterwalder est un guide pratique pour ceux qui souhaitent repenser leur modèle d&amp;rsquo;affaires et le rendre plus adaptable et durable. Le livre présente une méthode en neuf étapes pour créer et tester de nouvelles idées de modèles d&amp;rsquo;affaires, ainsi que pour améliorer et optimiser ceux qui existent déjà. La première étape consiste à définir les besoins des clients et à identifier les segments de marché pertinents.</description>
+    </item>
+    
+    <item>
+      <title>Rework : réussir autrement - Nouvelle édition: Entrepreneurs, auto-entrepreneurs, patrons ou salariés</title>
+      <link>https://livres-startup.fr/rework/</link>
+      <pubDate>Thu, 29 Dec 2022 09:41:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/rework/</guid>
+      <description>&amp;ldquo;Rework&amp;rdquo; de Jason Fried est une lecture incontournable pour tous ceux qui cherchent à remettre en question les notions traditionnelles de l&amp;rsquo;entreprise et à trouver leur propre voie vers le succès. Le livre regorge de conseils pratiques et réalisables sur la manière de diriger une entreprise prospère, de l&amp;rsquo;importance de se concentrer sur ce qui compte aux avantages de faire les choses simplement et à petite échelle.
+L&amp;rsquo;un des principaux thèmes de &amp;ldquo;Rework&amp;rdquo; est l&amp;rsquo;idée que moins est souvent plus lorsqu&amp;rsquo;il s&amp;rsquo;agit de créer une entreprise.</description>
+    </item>
+    
+    <item>
+      <title>Start With Why: The Inspiring Million-Copy Bestseller That Will Help You Find Your Purpose</title>
+      <link>https://livres-startup.fr/start-with-why/</link>
+      <pubDate>Mon, 26 Dec 2022 08:53:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/start-with-why/</guid>
+      <description>Start with Why&amp;quot; est un livre de Simon Sinek qui suscite la réflexion et l&amp;rsquo;inspiration. Il explore le concept de leadership axé sur les objectifs et la manière dont il peut être utilisé pour inspirer et motiver les autres. Sinek affirme que la clé du succès n&amp;rsquo;est pas seulement ce que vous faites ou comment vous le faites, mais aussi pourquoi vous le faites.
+Tout au long du livre, Sinek présente de nombreux exemples d&amp;rsquo;individus et d&amp;rsquo;organisations qui ont connu un grand succès en commençant par leur &amp;ldquo;pourquoi&amp;rdquo;, c&amp;rsquo;est-à-dire leur objectif ou la croyance qui les anime.</description>
+    </item>
+    
+    <item>
+      <title>The four steps to the epiphany: Successful Strategies for Products That Win</title>
+      <link>https://livres-startup.fr/four-steps-to-the-epiphany/</link>
+      <pubDate>Mon, 26 Dec 2022 08:53:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/four-steps-to-the-epiphany/</guid>
+      <description>&amp;ldquo;The Four Steps to the Epiphany&amp;rdquo; (Les quatre étapes de l&amp;rsquo;épiphanie) est un livre écrit par Steve Blank qui décrit un cadre à suivre pour les startups afin de réussir à mettre un nouveau produit ou service sur le marché. Le livre est basé sur les propres expériences de Blank en tant qu&amp;rsquo;entrepreneur et enseigne les principes du développement de la clientèle, qui est le processus d&amp;rsquo;identification et de validation d&amp;rsquo;une idée commerciale par le biais des commentaires des clients et de l&amp;rsquo;itération.</description>
+    </item>
+    
+    <item>
+      <title>Grit: The Power of Passion and Perseverance Better to Live More</title>
+      <link>https://livres-startup.fr/grit-the-power-of-passion-and-perseverance/</link>
+      <pubDate>Fri, 23 Dec 2022 11:52:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/grit-the-power-of-passion-and-perseverance/</guid>
+      <description>S&amp;rsquo;inspirant de sa propre histoire, celle de la fille d&amp;rsquo;un scientifique qui lui faisait souvent remarquer qu&amp;rsquo;elle n&amp;rsquo;était pas &amp;ldquo;géniale&amp;rdquo;, Duckworth, aujourd&amp;rsquo;hui célèbre chercheuse et professeure, décrit ses premières expériences révélatrices dans l&amp;rsquo;enseignement, le conseil aux entreprises et les neurosciences, qui l&amp;rsquo;ont amenée à formuler l&amp;rsquo;hypothèse que le véritable moteur du succès n&amp;rsquo;est pas le &amp;ldquo;génie&amp;rdquo;, mais une combinaison unique de passion et de persévérance à long terme.
+Dans Grit, elle emmène ses lecteurs sur le terrain pour rendre visite à des cadets qui se débattent dans leurs premiers jours à West Point, à des enseignants travaillant dans certaines des écoles les plus difficiles et à de jeunes finalistes du concours national d&amp;rsquo;orthographe.</description>
+    </item>
+    
+    <item>
+      <title>The $100 Startup: Fire Your Boss, Do What You Love and Work Better to Live More</title>
+      <link>https://livres-startup.fr/the-100-dollar-startup/</link>
+      <pubDate>Fri, 23 Dec 2022 09:05:52 +0100</pubDate>
+      
+      <guid>https://livres-startup.fr/the-100-dollar-startup/</guid>
+      <description>$100 Startup est un best-seller du New York Times écrit par Chris Guillebeau.
+J&amp;rsquo;ai aimé le design de la couverture du livre qui représente un vélo rétro, un sac d&amp;rsquo;argent sur le porte-bagages arrière et un panier avant.
+Ce livre est une fenêtre sur les possibilités illimitées que l&amp;rsquo;on peut explorer dans la vie.
+L&amp;rsquo;auteur, fort de sa vaste expérience de voyage dans 193 pays et de ses recherches approfondies sur les petites entreprises, propose des moyens pratiques de créer une entreprise.</description>
+    </item>
+    
+    <item>
+      <title>Zero to One: Notes on Startups, or How to Build the Future</title>
+      <link>https://livres-startup.fr/zero-to-one/</link>
+      <pubDate>Thu, 22 Dec 2022 12:49:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/zero-to-one/</guid>
+      <description>Le grand secret de notre époque est qu&amp;rsquo;il existe encore des frontières inexplorées à explorer et de nouvelles inventions à créer. Dans Zero to One, l&amp;rsquo;entrepreneur et investisseur légendaire Peter Thiel montre comment nous pouvons trouver des moyens singuliers de créer ces nouvelles choses.
+Peter Thiel part du principe que nous vivons à une époque de stagnation technologique, même si nous sommes trop distraits par des appareils mobiles brillants pour le remarquer.</description>
+    </item>
+    
+    <item>
+      <title>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</title>
+      <link>https://livres-startup.fr/the-hard-thing-about-hard-things/</link>
+      <pubDate>Tue, 20 Dec 2022 23:54:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/the-hard-thing-about-hard-things/</guid>
+      <description>Ben Horowitz, cofondateur d&amp;rsquo;Andreessen Horowitz et l&amp;rsquo;un des entrepreneurs les plus respectés et les plus expérimentés de la Silicon Valley, offre des conseils essentiels sur la création et la gestion d&amp;rsquo;une startup - une sagesse pratique pour gérer les problèmes les plus difficiles que les écoles de commerce n&amp;rsquo;abordent pas, en se basant sur son populaire blog Ben&amp;rsquo;s.
+Si beaucoup de gens disent qu&amp;rsquo;il est formidable de créer une entreprise, très peu sont honnêtes quant à la difficulté de la gérer.</description>
+    </item>
+    
+    <item>
+      <title>14 livres à lire en 2023 pour développer sa startup</title>
+      <link>https://livres-startup.fr/pages/14-livres-pour-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/pages/14-livres-pour-2023/</guid>
+      <description>La création d&amp;rsquo;une nouvelle entreprise peut être une expérience passionnante, mais aussi accablante. Il y a beaucoup à apprendre et à considérer, et il peut être utile de chercher des conseils et de l&amp;rsquo;inspiration auprès de ceux qui vous ont précédé. Voici une liste de 30 livres importants à lire si vous lancez une startup ou si vous êtes intéressé par le monde des startups.</description>
+    </item>
+    
+    <item>
+      <title>Lean Startup: Adoptez l&#39;innovation continue</title>
+      <link>https://livres-startup.fr/the-lean-startup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/the-lean-startup/</guid>
+      <description>Eric Ries définit une startup comme une organisation dédiée à la création de quelque chose de nouveau dans des conditions d&amp;rsquo;extrême incertitude. Cela vaut aussi bien pour une personne seule dans un garage que pour un groupe de professionnels chevronnés dans une salle de réunion de Fortune 500. Ce qu&amp;rsquo;ils ont en commun, c&amp;rsquo;est la mission de pénétrer ce brouillard d&amp;rsquo;incertitude pour découvrir une voie fructueuse vers une entreprise durable.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi est-il important de lire pour développer son entreprise ?</title>
+      <link>https://livres-startup.fr/pages/pourquoi-lire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/pages/pourquoi-lire/</guid>
+      <description>Lorsqu&amp;rsquo;on a demandé à Elon Musk comment il avait appris à construire des fusées, il a donné une réponse simple et frappante : Je lis des livres.</description>
+    </item>
+    
+    <item>
+      <title>You Are a Badass at Making Money: Master the Mindset of Wealth</title>
+      <link>https://livres-startup.fr/you-are-a-badass-at-making-money/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://livres-startup.fr/you-are-a-badass-at-making-money/</guid>
+      <description>You Are a Badass at Making Money: Master the Mindset of Wealth est un livre écrit par Jen Sincero, un auteur à succès et coach en développement personnel. Dans ce livre, elle partage ses conseils et ses stratégies pour apprendre à gérer ses finances et à atteindre ses objectifs financiers. Elle explique comment les croyances limitantes peuvent nous freiner et comment les transformer en une force motrice pour atteindre nos objectifs.</description>
+    </item>
+    
   </channel>
 </rss>
