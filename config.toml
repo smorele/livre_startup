@@ -4,6 +4,7 @@ theme = 'mainroad'
 googleAnalytics = "G-C7WWBF4CTC"
 defaultContentLanguage = "fr"
 
+
 [taxonomies]
   author = "auteurs"
   tag = "tags"
