@@ -6,7 +6,7 @@ url: le-guerrier-pacifique
 tags: 
 - socrate
 - introspection
-author: Dann Millman
+author: Dan Millman
 thumbnail: 
     src: "images/le-guerrier-pacifique.jpeg"
 amazon: https://amzn.to/3HxqJQn
