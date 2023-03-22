@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/public/art-du-pitch" />
+      <excludeFolder url="file://$MODULE_DIR$/public/auteurs" />
+      <excludeFolder url="file://$MODULE_DIR$/public/business-model-nouvelle-generation" />
+      <excludeFolder url="file://$MODULE_DIR$/public/categories" />
+      <excludeFolder url="file://$MODULE_DIR$/public/four-steps-to-the-epiphany" />
+      <excludeFolder url="file://$MODULE_DIR$/public/grit-the-power-of-passion-and-perseverance" />
+      <excludeFolder url="file://$MODULE_DIR$/public/images" />
+      <excludeFolder url="file://$MODULE_DIR$/public/la-25-eme-heure" />
+      <excludeFolder url="file://$MODULE_DIR$/public/le-guerrier-pacifique" />
+      <excludeFolder url="file://$MODULE_DIR$/public/les-vertus-de-lechec" />
+      <excludeFolder url="file://$MODULE_DIR$/public/livres" />
+      <excludeFolder url="file://$MODULE_DIR$/public/nudge-best-seller-economie" />
+      <excludeFolder url="file://$MODULE_DIR$/public/page" />
+      <excludeFolder url="file://$MODULE_DIR$/public/pages" />
+      <excludeFolder url="file://$MODULE_DIR$/public/rework" />
+      <excludeFolder url="file://$MODULE_DIR$/public/start-with-why" />
+      <excludeFolder url="file://$MODULE_DIR$/public/tags" />
+      <excludeFolder url="file://$MODULE_DIR$/public/the-100-dollar-startup" />
+      <excludeFolder url="file://$MODULE_DIR$/public/the-hard-thing-about-hard-things" />
+      <excludeFolder url="file://$MODULE_DIR$/public/the-lean-startup" />
+      <excludeFolder url="file://$MODULE_DIR$/public/you-are-a-badass-at-making-money" />
+      <excludeFolder url="file://$MODULE_DIR$/public/zero-to-one" />
+      <excludeFolder url="file://$MODULE_DIR$/.netlify" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

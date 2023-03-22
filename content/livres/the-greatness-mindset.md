@@ -2,13 +2,13 @@
 title: "The Greatness Mindset: Unlock the Power of Your Mind and Live Your Best Life Today"
 url: the-greatness-mindset
 lead: Dans ce livre, Howes explore la manière dont la pensée peut influencer nos actions et notre vie en général.
-date: 2022-03-22T09:16:52+01:00
+date: 2023-03-22T09:16:52+01:00
 tags:
-    - mindset
-    - motivation
+- mindset
+- motivation
 author: Lewis Howes
-thumbnail: 
-    src: "images/the-greatness-mindset.jpeg"
+thumbnail:
+  src: "images/the-greatness-mindset.jpeg"
 amazon: https://amzn.to/3Ty296k
 ---
 "The Greatness Mindset: Unlock the Power of Your Mind and Live Your Best Life Today" est un livre écrit par l'auteur et entrepreneur Lewis Howes. Dans ce livre, Howes explore la manière dont la pensée peut influencer nos actions et notre vie en général. Il examine comment le développement d'une mentalité axée sur la grandeur peut aider à atteindre le succès et à réaliser ses rêves.
