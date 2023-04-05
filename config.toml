@@ -42,3 +42,20 @@ defaultContentLanguage = "fr"
   list = "right"
   single = "right"
   widgets = ["recent", "categories", "taglist"]
+
+[[redirects]]
+  from = "/author/richard-thaler.html"
+  to = "/auteurs/richard-thaler.html"
+
+[[redirects]]
+  from = "/author/eric-ries.html"
+  to = "/auteurs/eric-ries.html"
+
+[[redirects]]
+  from = "/category/motivation-et-leadership.html"
+  to = "/tags/motivation/"
+
+[[redirects]]
+  from = "/category/economie.html"
+  to = "/tags/economie-comportementale/"
+
