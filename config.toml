@@ -46,16 +46,23 @@ defaultContentLanguage = "fr"
 [[redirects]]
   from = "/author/richard-thaler.html"
   to = "/auteurs/richard-thaler.html"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/author/eric-ries.html"
   to = "/auteurs/eric-ries.html"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/category/motivation-et-leadership.html"
   to = "/tags/motivation/"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/category/economie.html"
   to = "/tags/economie-comportementale/"
-
+  status = 301
+  force = true
