@@ -1,6 +1,6 @@
 ---
 title: "Robert Kiyosaki"
-date: 2023-04-05T07:54:55+01:00
+date: 2023-04-05
 template: auteurs.html
 picture: 
 ---

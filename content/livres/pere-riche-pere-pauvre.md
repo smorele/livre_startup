@@ -1,6 +1,6 @@
 ---
 title: Père riche père pauvre
-date: 2023-04-05T7:49:00
+date: 2023-04-05
 lead: "Un livre pour changer de mentalité et se concentrer sur l'investissement intelligent pour atteindre la liberté financière"
 url: pere-riche-pere-pauvre
 tags: 
@@ -8,8 +8,8 @@ tags:
 - richesse
 - investissement
 author: Robert Kiyosaki
-thumbnail: 
-    src: "images/pere-riche-pere-pauvre.jpeg"
+thumbnail:
+  src: "images/pere-riche-pere-pauvre.jpeg"
 amazon: https://amzn.to/3GiOlY8
 ---
 
