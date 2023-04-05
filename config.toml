@@ -44,25 +44,25 @@ defaultContentLanguage = "fr"
   widgets = ["recent", "categories", "taglist"]
 
 [[redirects]]
-  from = "/author/richard-thaler.html"
-  to = "/auteurs/richard-thaler.html"
+  from = "https://livres-startup.fr/author/richard-thaler.html"
+  to = "https://livres-startup.fr/auteurs/richard-thaler.html"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/author/eric-ries.html"
-  to = "/auteurs/eric-ries.html"
+  from = "https://livres-startup.fr/author/eric-ries.html"
+  to = "https://livres-startup.fr/auteurs/eric-ries.html"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/category/motivation-et-leadership.html"
-  to = "/tags/motivation/"
+  from = "https://livres-startup.fr/category/motivation-et-leadership.html"
+  to = "https://livres-startup.fr/tags/motivation/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/category/economie.html"
-  to = "/tags/economie-comportementale/"
+  from = "https://livres-startup.fr/category/economie.html"
+  to = "https://livres-startup.fr/tags/economie-comportementale/"
   status = 301
   force = true
