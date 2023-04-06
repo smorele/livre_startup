@@ -1,0 +1,13 @@
+{{- if not .Date.IsZero }}
+<div class="meta__item-datetime meta__item">
+	{{ partial "svg/time.svg" (dict "class" "meta__icon") -}}
+	<time class="meta__text" datetime="{{- .Date.Format (.Site.Params.dateformat | default "January 02, 2006") -}}" datetime="{{- .Date.Format (.Site.Params.dateformat | default "January 02, 2006") -}}" itemprop="datePublished">
+		{{- .Date.Format (.Site.Params.dateformat | default "January 02, 2006") -}}
+	</time>
+	{{- if ne .Date .Lastmod }}
+	<time class="meta__text" datetime="{{- T "meta_lastmod" }}: {{ .Lastmod.Format (.Site.Params.dateformat | default "January 02, 2006") -}}">(
+		{{- T "meta_lastmod" }}: {{ .Lastmod.Format (.Site.Params.dateformat | default "January 02, 2006") -}}
+	)</time>
+	{{- end -}}
+</div>
+{{- end }}
