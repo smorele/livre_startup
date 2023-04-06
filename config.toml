@@ -18,7 +18,7 @@ defaultContentLanguage = "fr"
   image = "/img/favicon.png"
 
 [Params]
-  description = "Les meilleurs livres pour développer son entreprise" # Site description. Used in meta description
+  description = "Besoin de conseils pour lancer votre entreprise ? Découvrez notre sélection de livres sur les startups et l'entrepreneuriat, qui couvrent toutes les étapes de la création d'une entreprise et vous aideront à réussir." # Site description. Used in meta description
   copyright = "livre-startup.fr" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
