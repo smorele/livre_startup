@@ -17,7 +17,7 @@
 		{{ else }}
 			<a class="thumbnail__link" href="{{ .page.Params.amazon }}">
 		{{ end }}
-		<img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" itemprop="keywords">
+		<img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}" itemprop="image">
 		{{ if or (eq $class "list") (eq $class "post") }}</a>{{ end }}
 
 
