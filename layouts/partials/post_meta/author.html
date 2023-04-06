@@ -1,8 +1,14 @@
 {{- if $.Param "author" -}}
-<div class="meta__item-author meta__item">
+<div class="meta__item-author meta__item" itemprop="author" itemscope itemtype="https://schema.org/Person">
 	{{ partial "svg/author.svg" (dict "class" "meta__icon") -}}
-	<a href="/auteurs/{{ $.Param "author" | urlize }}/">
-	<span class="meta__text" itemprop="author">{{ $.Param "author" }}</span>
+	<a href="/auteurs/{{ $.Param "author" | urlize }}/" itemprop="url">
+	<span class="meta__text" itemprop="name">{{ $.Param "author" }}</span>
 	</a>
 </div>
 {{- end -}}
+
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+            <a rel="author" itemprop="url" href="media-management.fr/author/florence">
+                <span itemprop="name">Florence Roudy</span>
+            </a>
+        </span>
