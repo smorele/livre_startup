@@ -6,7 +6,7 @@
 				<a href="/{{ .Params.url }}" itemprop="url">{{ .Title }}</a>
 			</h1>
 			{{- with .Params.lead }}
-			<p class="post__lead">{{ . }}</p>
+			<p class="post__lead" itemprop="headline">{{ . }}</p>
 			{{- end }}
 			{{ with partial "post_meta.html" . -}}
 			<div class="post__meta meta">{{ . }}</div>
