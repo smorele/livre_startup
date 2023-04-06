@@ -32,7 +32,7 @@ defaultContentLanguage = "fr"
   dateFormat = "2 January 2006"
   dateFormatFull = "02/01/2006"
   dateFormatTime = "2 Jan 2006 15:04"
-  customCSS = ["css/custom.css"]
+  customCSS = ["css/custom.css", "css/googlefont.css"]
 
 [Params.content.filters]
   author = true
