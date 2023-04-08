@@ -3,6 +3,7 @@ title: "The four steps to the epiphany: Successful Strategies for Products That 
 date: 2022-12-26T08:53:00
 url: four-steps-to-the-epiphany
 lead: "The Four Steps to the Epiphany est un livre qui décrit un framework pour les startups afin de réussir à mettre un nouveau produit ou service sur le marché."
+description: "The Four Steps to the Epiphany est un livre qui décrit un framework pour les startups afin de réussir à mettre un nouveau produit ou service sur le marché."
 tags: 
 - lean
 - startups

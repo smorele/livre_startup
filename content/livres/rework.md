@@ -3,6 +3,7 @@ title: "Rework : réussir autrement - Nouvelle édition: Entrepreneurs, auto-ent
 date: 2022-12-29T09:41:00
 url: rework
 lead: "Rework est une lecture incontournable pour tous ceux qui cherchent à remettre en question les notions traditionnelles de l'entreprise et à trouver leur propre voie vers le succès."
+description: "Rework est une lecture incontournable pour tous ceux qui cherchent à remettre en question les notions traditionnelles de l'entreprise et à trouver leur propre voie vers le succès."
 tags: 
 - management
 - remote

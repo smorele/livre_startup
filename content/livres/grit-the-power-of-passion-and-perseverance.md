@@ -2,6 +2,7 @@
 title: "Grit: The Power of Passion and Perseverance Better to Live More"
 url: grit-the-power-of-passion-and-perseverance
 lead: "Pourquoi certaines personnes réussissent-elles et d'autres échouent-elles ? Partageant de nouvelles idées issues de ses recherches, Angela Duckworth explique pourquoi le talent n'est pas un gage de réussite."
+description: "Pourquoi certaines personnes réussissent-elles et d'autres échouent-elles ? Partageant de nouvelles idées issues de ses recherches, Angela Duckworth explique pourquoi le talent n'est pas un gage de réussite."
 date: 2022-12-23T11:52:00
 tags: 
 - motivation

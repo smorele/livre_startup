@@ -3,6 +3,7 @@ title: "The Hard Thing About Hard Things: Building a Business When There Are No 
 date: 2022-12-20T23:54:00
 url: the-hard-thing-about-hard-things
 lead: "Ben Horowitz, cofondateur d'Andreessen Horowitz et l'un des entrepreneurs les plus respectés et les plus expérimentés de la Silicon Valley, offre des conseils essentiels sur la création et la gestion d'une startup."
+description: "Ben Horowitz, cofondateur d'Andreessen Horowitz et l'un des entrepreneurs les plus respectés et les plus expérimentés de la Silicon Valley, offre des conseils essentiels sur la création et la gestion d'une startup."
 tags: 
 - motivation
 author: Ben Horowitz

@@ -2,6 +2,7 @@
 title: La semaine de  4 heures
 date: 2023-03-20T7:18:00
 lead: "La référence de Timothy Ferriss pour apprendre à gérer son temps et devenir plus productif."
+description: "La référence de Timothy Ferriss pour apprendre à gérer son temps et devenir plus productif."
 url: la-semaine-de-4-heures
 tags: 
 - organisation

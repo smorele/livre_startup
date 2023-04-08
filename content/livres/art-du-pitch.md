@@ -2,6 +2,7 @@
 title: "L'art du pitch: Trouvez l'accroche, soyez convaincants et réussissez vos deals"
 url: art-du-pitch/
 lead: Oren Klaff dévoile ici la méthode qui lui a permis de lever plus de 400 millions de dollars auprès d'investisseurs. S'appuyant sur les dernières avancées des neurosciences, il explique comment le cerveau prend les décisions, réagit à un pitch... et comment il est possible de sortir du lot.
+description: Oren Klaff dévoile ici la méthode qui lui a permis de lever plus de 400 millions de dollars auprès d'investisseurs. S'appuyant sur les dernières avancées des neurosciences, il explique comment le cerveau prend les décisions, réagit à un pitch... et comment il est possible de sortir du lot.
 date: 2023-03-07T09:05:52+01:00
 tags:
     - "communication"

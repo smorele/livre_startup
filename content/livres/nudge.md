@@ -3,6 +3,7 @@ title: Nudge - best-seller du prix Nobel d’économie
 date: 2023-01-05T10:48:00
 url: nudge-best-seller-economie
 lead: "Ce livre, à l’origine du phénomène Nudge, s’appuie sur les recherches comportementales les plus poussées pour prendre de meilleures décisions. Il engage le lecteur à changer fondamentalement sa façon de penser, tout en préservant sa liberté de choix."
+description: "Ce livre, à l’origine du phénomène Nudge, s’appuie sur les recherches comportementales les plus poussées pour prendre de meilleures décisions. Il engage le lecteur à changer fondamentalement sa façon de penser, tout en préservant sa liberté de choix."
 author: Richard Thaler 
 tags: 
 - economie comportementale

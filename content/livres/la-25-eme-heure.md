@@ -3,6 +3,7 @@ title: La 25ème Heure
 date: 2023-02-12T09:16:00
 url: la-25-eme-heure
 lead: "Déjà plus de 100 000 lecteurs : après avoir lu ce livre, vous saurez comment gagner une heure de travail par jour et libérer du temps pour faire ce qui vous rend vraiment heureux."
+description: "Déjà plus de 100 000 lecteurs : après avoir lu ce livre, vous saurez comment gagner une heure de travail par jour et libérer du temps pour faire ce qui vous rend vraiment heureux."
 :tags: 
 - productivité
   - optimisation

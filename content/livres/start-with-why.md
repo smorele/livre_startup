@@ -3,6 +3,7 @@ title: "Start With Why: The Inspiring Million-Copy Bestseller That Will Help You
 date: 2022-12-26T08:53:00
 url: start-with-why
 lead: "Tout au long du livre, Sinek présente de nombreux exemples d'individus et d'organisations qui ont connu un grand succès en commençant par leur \"pourquoi\", c'est-à-dire leur objectif ou leur croyance qui les anime."
+description: "Tout au long du livre, Sinek présente de nombreux exemples d'individus et d'organisations qui ont connu un grand succès en commençant par leur \"pourquoi\", c'est-à-dire leur objectif ou leur croyance qui les anime."
 tags: 
 - why
 - golden circle

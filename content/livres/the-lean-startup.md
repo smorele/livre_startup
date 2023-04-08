@@ -3,6 +3,7 @@ title: "Lean Startup: Adoptez l'innovation continue"
 date: 2022-12-21T10:20
 url: the-lean-startup
 lead: "La plupart des startups échouent. Mais beaucoup de ces échecs peuvent être évités. Découvrez le Lean Startup, une nouvelle approche adoptée dans le monde entier."
+description: "La plupart des startups échouent. Mais beaucoup de ces échecs peuvent être évités. Découvrez le Lean Startup, une nouvelle approche adoptée dans le monde entier."
 tags: 
 - lean
 - innovation

@@ -2,6 +2,7 @@
 title: Business model nouvelle génération 
 url: business-model-nouvelle-generation
 lead: "Business Model Nouvelle Génération est un guide pratique pour ceux qui souhaitent repenser leur modèle d'affaires et le rendre plus adaptable et durable."
+description: "Business Model Nouvelle Génération est un guide pratique pour ceux qui souhaitent repenser leur modèle d'affaires et le rendre plus adaptable et durable."
 date: 2022-12-30T10:43:00+01:00
 tags:
 - business model

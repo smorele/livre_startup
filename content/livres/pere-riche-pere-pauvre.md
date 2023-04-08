@@ -11,6 +11,7 @@ author: Robert Kiyosaki
 thumbnail:
   src: "images/pere-riche-pere-pauvre.jpeg"
 amazon: https://amzn.to/3GiOlY8
+description: "Un livre pour changer de mentalité et se concentrer sur l'investissement intelligent pour atteindre la liberté financière"
 ---
 
 Le livre "Père riche, Père pauvre" de Robert Kiyosaki est un best-seller qui a pour but d'enseigner aux lecteurs les principes de la finance personnelle à travers l'histoire de deux pères, l'un riche et l'autre pauvre.

@@ -2,6 +2,7 @@
 title: Le guerrier pacifique
 date: 2023-01-26T10:57:00
 lead: "Si vous ne deviez lire qu'un livre en développement personnel, le voici ! Découvrez ce que Socrate va vous apporter."
+description: "Si vous ne deviez lire qu'un livre en développement personnel, le voici ! Découvrez ce que Socrate va vous apporter."
 url: le-guerrier-pacifique
 tags: 
 - socrate

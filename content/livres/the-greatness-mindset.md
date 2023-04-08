@@ -2,6 +2,7 @@
 title: "The Greatness Mindset: Unlock the Power of Your Mind and Live Your Best Life Today"
 url: the-greatness-mindset
 lead: Dans ce livre, Howes explore la manière dont la pensée peut influencer nos actions et notre vie en général.
+description: Dans ce livre, Howes explore la manière dont la pensée peut influencer nos actions et notre vie en général.
 date: 2023-03-22T09:16:52+01:00
 tags:
 - mindset

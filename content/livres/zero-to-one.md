@@ -4,6 +4,7 @@ date: 2022-12-22T12:49:00
 tags: 
 - innovation
 lead: "Dans Zero to One, Peter Thiel montre comment nous pouvons trouver des moyens singuliers de créer ces nouvelles choses."
+description: "Dans Zero to One, Peter Thiel montre comment nous pouvons trouver des moyens singuliers de créer ces nouvelles choses."
 url: zero-to-one
 author: Peter Thiel
 thumbnail: 

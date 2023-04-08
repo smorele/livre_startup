@@ -3,6 +3,7 @@ title: Les vertus de l'échec
 date: 2023-02-21T10:16:00
 url: les-vertus-de-lechec
 lead: "Un petit traité de sagesse qui nous met sur la voie d'une authentique réussite. Et si nous changions de regard sur l'échec ?"
+description: "Un petit traité de sagesse qui nous met sur la voie d'une authentique réussite. Et si nous changions de regard sur l'échec ?"
 tags: 
 - echec
 - sagesse

@@ -9,6 +9,7 @@ author: Chris Guillebeau
 thumbnail: 
     src: "images/100-dollars-startup.jpg"
 amazon: https://amzn.to/3HUbjXf
+description: $100 Startup est un mélange parfait de passion et de méthode et montre comment créer une entreprise avec un petit investissement et vivre sa vie comme on l'entend.
 ---
 $100 Startup est un best-seller du New York Times écrit par Chris Guillebeau.
 
