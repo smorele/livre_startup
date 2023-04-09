@@ -5,6 +5,9 @@ summary: "Lorsqu'on a demandé à Elon Musk comment il avait appris à construir
 lead: "Lorsqu'on a demandé à Elon Musk comment il avait appris à
     construire des fusées, il a répondu: En lisant. Voici pourquoi vous
     devez lire !"
+menu: 
+- main
+- footer
 ---
 
 ![Des livres pour entreprendre](/images/why-read.jpeg)

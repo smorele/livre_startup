@@ -9,6 +9,9 @@ considérer, et il peut être utile de chercher des conseils et de
 l\'inspiration auprès de ceux qui vous ont précédé. Voici une liste de
 30 livres importants à lire si vous lancez une startup ou si vous êtes
 intéressé par le monde des startups."
+menu: 
+- main
+- footer
 ---
 
 ![Des livres pour entreprendre](/images/why-read-2.jpeg){.align-center

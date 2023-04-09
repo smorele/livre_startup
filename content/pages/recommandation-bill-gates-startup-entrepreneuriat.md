@@ -1,6 +1,7 @@
 ---
 title: 4 livres sur l'entrepreneuriat recommandés par Bill Gates
 date: 2023-03-30T09:22
+menu: footer
 ---
 Bill Gates est connu pour être un lecteur passionné et a parlé publiquement de son amour pour les livres et la lecture. Plusieurs raisons expliquent pourquoi il lit autant :
 
