@@ -3,6 +3,7 @@ title: "Simon Sinek"
 date: 2023-03-08T10:38:28+01:00
 template: auteurs.html
 picture: 
+description: Connaissez-vous Simon Sinek ?
 ---
 
 Simon Sinek est un auteur, conférencier et consultant en leadership et management d'entreprise d'origine britannique. Il est surtout connu pour sa présentation TEDx intitulée "Comment les grands leaders inspirent l'action" (en anglais "How Great Leaders Inspire Action"), qui a été visionnée des millions de fois et est devenue l'une des présentations TED les plus populaires de tous les temps.

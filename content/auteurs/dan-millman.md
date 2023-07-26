@@ -3,6 +3,7 @@ title: "Dan Millman"
 date: 2023-03-08T10:36:32+01:00
 template: auteurs.html
 picture: 
+description: Connaissez-vous Dan Millman ?
 ---
 Dan Millman est un auteur américain, conférencier et ancien athlète de gymnastique. Né en 1946 à Los Angeles, en Californie, il est surtout connu pour son livre ["Way of the Peaceful Warrior" (en français, "Le Guerrier Pacifique")](https://livres-startup.fr/le-guerrier-pacifique/), publié en 1980, qui est devenu un best-seller international et a été adapté au cinéma en 2006.
 

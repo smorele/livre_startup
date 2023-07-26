@@ -3,6 +3,7 @@ title: "Robert Kiyosaki"
 date: 2023-04-05
 template: auteurs.html
 picture: 
+description: Connaissez-vous Robert Kiyosaki ?
 ---
 
 Robert Kiyosaki est un entrepreneur, écrivain et conférencier américain, né le 8 avril 1947 à Hilo, Hawaii. Il est surtout connu pour son livre "Père riche, Père pauvre" (Rich Dad Poor Dad en anglais) qui est devenu un best-seller mondial, avec plus de 32 millions d'exemplaires vendus dans plus de 109 pays.

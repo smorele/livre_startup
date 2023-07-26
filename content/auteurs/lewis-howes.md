@@ -3,6 +3,7 @@ title: "Lewis Howes"
 date: 2023-03-22T10:23:53+01:00
 template: auteurs.html
 picture: 
+description: Connaissez-vous Lewis Howes ?
 ---
 
 Lewis Howes est un auteur, entrepreneur, coach de vie et animateur de podcast américain. Il est surtout connu pour son travail dans le domaine de l'entrepreneuriat et du développement personnel. Howes a commencé sa carrière en jouant au football professionnel en Europe, avant de se tourner vers l'entrepreneuriat et de fonder plusieurs entreprises prospères.
