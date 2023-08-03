@@ -3,6 +3,7 @@ title = 'Livres Startup - Des livres pour entreprendre'
 theme = 'mainroad'
 googleAnalytics = "G-C7WWBF4CTC"
 defaultContentLanguage = "fr"
+enableRobotsTXT = true
 
 [taxonomies]
   author = "auteurs"
